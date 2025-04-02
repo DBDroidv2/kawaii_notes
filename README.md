@@ -57,8 +57,7 @@ If you have a suggestion that would make this better, please fork the repo and c
 
 ## License
 
-Distributed under the Apache License 2.0. See `LICENSE` file for more information. (You'll need to add the standard Apache 2.0 LICENSE file to the repository).
-
+Distributed under the Apache License 2.0. See `LICENSE` file for more information.
 ## Acknowledgements
 
 *   [Flutter](https://flutter.dev/)
